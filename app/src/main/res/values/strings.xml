@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Intent_parametros</string>
+    <string name="txt1">Ingrese Nombre</string>
+    <string name="txt2">Ingrese Apellido</string>
+    <string name="btnenviar">Enviar</string>
+    <string name="btneregresar">Regresar</string>
+    <string name="txt3">Nombre</string>
+    <string name="txt4">Apellido</string>
+
+    <string name="txt5">Ingresa URL</string>
+    <string name="btnnavegar">Navegar</string>
+    <string name="btncerrar">Cerrar</string>
+
+</resources>
