@@ -7,7 +7,7 @@
     <string name="txt3">Nombre</string>
     <string name="txt4">Apellido</string>
 
-    <string name="txt5">Ingresa URL</string>
+    <string name="txt5">Ingresa direccion URL</string>
     <string name="btnnavegar">Navegar</string>
     <string name="btncerrar">Cerrar</string>
 
